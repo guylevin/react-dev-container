@@ -10,11 +10,12 @@ A simple development container for react, to run in vscode
 
 ## Create and run app
   
-Create a project
-```npx create-react-app my-app```  (or . instead of app-name to run create in same directory)  
+Create a project  
+`npx create-react-app my-app`  
+_or . instead of app-name to create in same directory_    
   
 Run project  
-```npm start```  
+`npm start`  
   
 ## Environment Variables
 The devcontainer.env adds an environment variable for the hot-reload to work on windows environment (wsl2) as well
