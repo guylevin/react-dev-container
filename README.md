@@ -12,7 +12,7 @@ A simple development container for react, to run in vscode
   
 Create a project  
 `npx create-react-app my-app`  
-_or . instead of app-name to create in same directory_    
+_Use `.` instead of `app-name` to place the app files in the current directory_    
   
 Run project  
 `npm start`  
